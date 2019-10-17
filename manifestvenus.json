@@ -1,0 +1,38 @@
+{
+  "name": "APK Venuz",
+  "short_name": "APK Venuz",
+  "start_url": "https://apk-venus.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s48/PicsArt_10-17-05.40.17.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s72/PicsArt_10-17-05.40.17.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s96/PicsArt_10-17-05.40.17.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s144/PicsArt_10-17-05.40.17.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s168/PicsArt_10-17-05.40.17.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s192/PicsArt_10-17-05.40.17.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r-g_azGcWDs/Xag3sWKEIAI/AAAAAAAADvk/UNDzJ5GG_qc8-ZRUM4qG2Rf5ReDTLDXUQCLcBGAsYHQ/s512/PicsArt_10-17-05.40.17.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
