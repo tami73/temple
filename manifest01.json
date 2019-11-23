@@ -1,0 +1,38 @@
+{
+  "name": "M.Rutami",
+  "short_name": "Rutami Collection",
+  "start_url": "https://rutami-88.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tempat Berbagi Link download DJ Agus dan DJ Fredy serta Aplikasi Android",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s48/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s72/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s96/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s144/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s168/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s192/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fReisCK7ORk/XdjiVNcWy5I/AAAAAAAADzs/KvdDjSkLh6Eu_gytE7WSjKsRvNNAqI-TACLcBGAsYHQ/s512/virtual-dj-3-logo-png-transparent.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
